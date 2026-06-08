@@ -1,3 +1,3 @@
 # Kashi-demo
-this is my 1st git repo
-kashish kumari
+this is my 1st git repo.
+ME-kashish kumari
